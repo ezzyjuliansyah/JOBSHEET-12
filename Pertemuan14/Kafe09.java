@@ -1,6 +1,6 @@
 package Pertemuan14;
 
-public class KafeNoAbsen {
+public class Kafe09 {
     public static void main(String[] args) {
         Menu();   
     }
